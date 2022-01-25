@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Techofficialby/File-Sharing-Bot/blob/main/app.json",
+  "repository": "https://github.com/Techofficialby/File-Sharing-Bot/edit/main/app.json",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
